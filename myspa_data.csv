@@ -1,0 +1,201 @@
+booking_id,client_name,date,group_size,duration_hours,service_type,fnb_order,towels_used,revenue_eur
+1,Dr. Stephanie Patel,2026-05-04,2,1,Private Spa,Pizza,5,152
+2,Ashley Davis,2026-05-04,1,1,Couples Session,Coca Cola,10,466
+3,Jon Larson,2026-05-04,5,1,Couples Session,Coffee,7,195
+4,Amanda Thompson,2026-05-04,4,2,Private Spa,Champagne,9,426
+5,Carrie Perkins,2026-05-04,4,2,Birthday Party,Coffee,9,450
+6,Stephen Conner,2026-05-04,3,4,Couples Session,Coca Cola,2,425
+7,Timothy Edwards,2026-05-04,2,4,Birthday Party,None,5,283
+8,Jared Bentley,2026-05-04,2,4,Birthday Party,Coca Cola,6,491
+9,James Cooley,2026-05-04,7,2,Birthday Party,Champagne,10,365
+10,Autumn Garcia,2026-05-04,1,4,Private Spa,None,4,267
+11,Eric Moyer,2026-05-04,1,1,Private Spa,None,6,126
+12,Tara Blankenship,2026-05-04,2,2,Birthday Party,Coca Cola,9,484
+13,Danielle Allen DDS,2026-05-04,4,4,Group Session,Champagne,9,282
+14,Mark Hogan,2026-05-04,4,1,Private Spa,None,3,87
+15,Nancy Alvarez,2026-05-04,1,4,Group Session,Coca Cola,2,215
+16,Ariel Turner,2026-05-04,4,3,Group Session,Coca Cola,5,354
+17,Matthew Goodwin,2026-05-04,7,4,Birthday Party,Champagne,4,143
+18,Rebecca Eaton,2026-05-04,4,3,Group Session,Coca Cola,6,312
+19,Katherine Jackson,2026-05-04,8,4,Group Session,Coca Cola,10,268
+20,Nicole Mills,2026-05-04,5,4,Group Session,Coca Cola,2,424
+21,Eddie Anderson,2026-05-04,1,2,Birthday Party,Coffee,10,463
+22,Tracy Choi,2026-05-04,3,2,Birthday Party,Pizza,8,424
+23,Mary Barker,2026-05-04,7,3,Private Spa,Coffee,3,214
+24,Roy Rivera,2026-05-04,6,2,Private Spa,Coca Cola,5,379
+25,Kevin Smith,2026-05-04,5,1,Group Session,Pizza,3,275
+26,Brian Mayer,2026-05-04,3,1,Birthday Party,None,9,406
+27,Kimberly Clark DDS,2026-05-04,4,3,Birthday Party,Coffee,3,270
+28,Monica Ramos,2026-05-04,6,1,Group Session,Coffee,4,135
+29,Angela King,2026-05-04,2,1,Private Spa,Coffee,9,425
+30,Edward Kelly,2026-05-04,2,4,Birthday Party,Champagne,6,199
+31,Kayla Martinez,2026-05-04,7,2,Private Spa,Coca Cola,10,321
+32,Jason Larson,2026-05-04,2,1,Group Session,None,6,92
+33,Leonard Dyer DDS,2026-05-04,6,1,Birthday Party,None,8,397
+34,Matthew Williams,2026-05-04,6,2,Group Session,None,9,367
+35,Brandy Gutierrez,2026-05-04,5,1,Couples Session,Coca Cola,9,247
+36,Meredith Hernandez,2026-05-04,1,1,Group Session,Pizza,5,392
+37,Kendra Johnson,2026-05-04,8,2,Group Session,Coffee,9,193
+38,Sheryl Wood,2026-05-04,2,4,Group Session,Coca Cola,10,411
+39,Kathleen Gay,2026-05-04,7,1,Birthday Party,Coffee,4,112
+40,Christine Martin,2026-05-04,2,2,Group Session,Coca Cola,8,405
+41,Mrs. Christina Gonzalez,2026-05-04,5,1,Group Session,Coffee,5,317
+42,Derrick Morrow,2026-05-04,6,1,Couples Session,Coca Cola,10,438
+43,Madison Smith,2026-05-04,4,4,Birthday Party,Pizza,4,234
+44,Brian Todd,2026-05-04,2,3,Couples Session,None,3,412
+45,Veronica Bell,2026-05-04,1,3,Group Session,Coffee,6,289
+46,Eric Hall,2026-05-04,4,2,Birthday Party,Coca Cola,8,139
+47,Stephen Harrington,2026-05-04,5,3,Couples Session,Pizza,7,151
+48,Christine Mcdowell,2026-05-04,2,2,Group Session,Pizza,10,103
+49,Jeremy White,2026-05-04,4,3,Private Spa,None,6,99
+50,Bryan Wilson,2026-05-04,2,4,Couples Session,Coca Cola,2,235
+51,Heather Walsh,2026-05-04,7,2,Birthday Party,Coffee,6,332
+52,Robin Grant,2026-05-04,5,3,Couples Session,Champagne,6,139
+53,Jonathan Massey,2026-05-04,8,4,Couples Session,Pizza,9,129
+54,Ms. Cynthia Haynes,2026-05-04,6,3,Couples Session,Pizza,4,200
+55,Jason Bowers,2026-05-04,3,1,Private Spa,None,9,355
+56,John Young,2026-05-04,6,1,Birthday Party,Coca Cola,10,149
+57,Joel Ortiz,2026-05-04,6,4,Birthday Party,Champagne,9,278
+58,Beverly Gonzalez,2026-05-04,4,1,Birthday Party,Champagne,7,312
+59,Kimberly Bennett,2026-05-04,5,1,Group Session,Champagne,7,269
+60,Jeffrey White,2026-05-04,2,2,Birthday Party,Coca Cola,10,423
+61,Seth Scott,2026-05-04,3,3,Birthday Party,Coffee,10,460
+62,Scott Burton,2026-05-04,4,2,Private Spa,Pizza,8,436
+63,Michael Mccormick,2026-05-04,3,3,Group Session,Coca Cola,9,356
+64,Frances Jarvis PhD,2026-05-04,8,1,Group Session,Champagne,7,294
+65,Natalie Brooks,2026-05-04,7,2,Couples Session,Pizza,5,380
+66,Edward Dunn,2026-05-04,5,3,Group Session,Pizza,5,460
+67,Christine Schwartz,2026-05-04,4,3,Group Session,Champagne,8,452
+68,Jennifer Austin,2026-05-04,6,2,Private Spa,Champagne,5,159
+69,Jesus Clark,2026-05-04,1,4,Birthday Party,Pizza,8,292
+70,Jennifer Sanders,2026-05-04,4,3,Group Session,None,2,415
+71,Erik Morris,2026-05-04,1,1,Group Session,Pizza,7,130
+72,Karen Price,2026-05-04,6,3,Private Spa,Coffee,9,330
+73,Andrea Robinson,2026-05-04,7,1,Group Session,Coffee,8,395
+74,Michelle Davis,2026-05-04,5,2,Group Session,None,8,288
+75,Wesley Parker,2026-05-04,2,3,Private Spa,Coca Cola,4,223
+76,Michael Acosta,2026-05-04,4,1,Couples Session,Pizza,9,96
+77,Jose Higgins,2026-05-04,6,1,Couples Session,Coffee,2,433
+78,Joseph Atkinson,2026-05-04,4,2,Group Session,Pizza,4,269
+79,Tracy Romero,2026-05-04,8,3,Group Session,None,10,191
+80,Paul Dawson,2026-05-04,7,3,Birthday Party,Champagne,7,307
+81,Kim Leach,2026-05-04,8,2,Group Session,None,3,307
+82,Austin Brooks,2026-05-04,3,3,Birthday Party,None,9,200
+83,Greg Charles,2026-05-04,5,2,Couples Session,None,3,265
+84,Ann Abbott,2026-05-04,3,3,Group Session,Coffee,10,130
+85,Vanessa Harding,2026-05-04,4,4,Group Session,None,9,431
+86,Anthony Johnson,2026-05-04,5,3,Private Spa,Champagne,2,268
+87,Jennifer Brown,2026-05-04,7,1,Group Session,Champagne,4,358
+88,Sharon Thompson,2026-05-04,7,1,Couples Session,Champagne,8,410
+89,Lindsay Greene,2026-05-04,6,4,Group Session,Coca Cola,4,263
+90,Christian Williams,2026-05-04,4,3,Birthday Party,None,3,111
+91,Scott Sanders,2026-05-04,3,1,Group Session,Champagne,9,283
+92,Mrs. Sarah Robinson,2026-05-04,8,1,Birthday Party,Coca Cola,6,221
+93,Antonio Vargas,2026-05-04,2,3,Private Spa,None,7,177
+94,Pamela Hale,2026-05-04,1,2,Group Session,None,8,142
+95,Joseph Howard,2026-05-04,2,3,Private Spa,Pizza,3,312
+96,Sean Hays,2026-05-04,3,2,Private Spa,None,7,126
+97,Christopher Knapp,2026-05-04,3,4,Group Session,Pizza,10,419
+98,Jordan Campbell,2026-05-04,7,4,Birthday Party,Coffee,8,188
+99,Sharon Gonzalez,2026-05-04,2,1,Group Session,Coffee,7,408
+100,Edgar Hernandez,2026-05-04,7,1,Birthday Party,Coca Cola,9,407
+101,Alicia Johnson,2026-05-04,7,1,Private Spa,Pizza,10,385
+102,Javier Odom,2026-05-04,8,2,Couples Session,Coffee,2,90
+103,Robert Davis,2026-05-04,5,1,Group Session,Coffee,3,105
+104,Arthur Graham DDS,2026-05-04,1,3,Couples Session,Coffee,5,482
+105,Christopher Carter,2026-05-04,2,2,Birthday Party,None,6,250
+106,April Anderson,2026-05-04,5,4,Group Session,Pizza,5,204
+107,Justin Wallace,2026-05-04,6,2,Couples Session,Coffee,3,144
+108,Bridget Davis,2026-05-04,2,1,Couples Session,Pizza,8,482
+109,Frank Jones,2026-05-04,5,3,Group Session,Champagne,3,369
+110,Rodney Watson,2026-05-04,7,3,Couples Session,Champagne,3,185
+111,Donna Blair,2026-05-04,3,1,Group Session,None,9,115
+112,Gregory Larson,2026-05-04,8,3,Couples Session,Champagne,4,471
+113,Stephanie Hall,2026-05-04,1,2,Private Spa,Coca Cola,6,363
+114,Tommy Simpson,2026-05-04,5,2,Group Session,Pizza,2,186
+115,Christie Wood,2026-05-04,3,1,Private Spa,Coffee,2,380
+116,Richard Ferguson,2026-05-04,2,3,Private Spa,Coca Cola,7,190
+117,Maria Cox,2026-05-04,5,4,Couples Session,Coca Cola,2,496
+118,Ricky Parker,2026-05-04,4,2,Birthday Party,Champagne,6,199
+119,Justin Williams,2026-05-04,3,2,Private Spa,Pizza,7,248
+120,Jennifer Harper,2026-05-04,6,2,Private Spa,Coffee,7,476
+121,Karen Johnson,2026-05-04,3,2,Private Spa,Coca Cola,8,155
+122,Jacob King,2026-05-04,1,4,Birthday Party,None,4,483
+123,Alice Novak,2026-05-04,6,1,Birthday Party,Coffee,5,385
+124,Paul Paul,2026-05-04,8,2,Private Spa,Champagne,10,81
+125,Mary Moore,2026-05-04,1,3,Birthday Party,Pizza,8,221
+126,Michelle Walker,2026-05-04,2,4,Birthday Party,None,4,154
+127,Brittany Gomez,2026-05-04,6,2,Birthday Party,Coffee,4,146
+128,Jason Gordon,2026-05-04,5,3,Group Session,Coffee,4,356
+129,Erin Scott,2026-05-04,4,2,Private Spa,Coca Cola,3,208
+130,Andrew Alexander,2026-05-04,1,1,Birthday Party,Coffee,8,488
+131,Derrick Henry,2026-05-04,4,4,Group Session,Pizza,5,169
+132,Travis Berg,2026-05-04,2,1,Couples Session,Pizza,9,136
+133,John Johnson,2026-05-04,2,4,Couples Session,Coffee,4,418
+134,Tammy Fuller,2026-05-04,8,2,Birthday Party,Coca Cola,5,93
+135,Carlos Cook,2026-05-04,2,2,Private Spa,None,9,147
+136,Melissa Foley,2026-05-04,3,4,Birthday Party,None,6,87
+137,Emily Miller,2026-05-04,3,3,Couples Session,Coca Cola,9,263
+138,Kaitlyn Burns DVM,2026-05-04,8,3,Private Spa,Champagne,6,484
+139,Peter Moon,2026-05-04,3,2,Private Spa,Pizza,2,483
+140,Walter Benson,2026-05-04,5,2,Couples Session,Champagne,9,201
+141,Lisa Williams,2026-05-04,7,1,Group Session,Coca Cola,6,381
+142,Dennis Powell,2026-05-04,4,2,Group Session,Champagne,10,245
+143,Natalie Roberts,2026-05-04,4,4,Birthday Party,Coca Cola,4,88
+144,Charlotte Lee,2026-05-04,5,3,Private Spa,None,3,169
+145,Renee Murphy MD,2026-05-04,7,3,Birthday Party,None,9,215
+146,Julia Smith,2026-05-04,6,1,Private Spa,Champagne,7,106
+147,Angela White,2026-05-04,8,3,Couples Session,Champagne,6,144
+148,Ricky Sims,2026-05-04,8,3,Private Spa,Pizza,8,459
+149,Christian Anderson,2026-05-04,2,4,Private Spa,None,6,295
+150,Rachel Sanchez,2026-05-04,4,3,Couples Session,Pizza,9,349
+151,Carly Patel,2026-05-04,4,1,Group Session,Champagne,6,138
+152,Edwin Harrison,2026-05-04,2,1,Couples Session,Coca Cola,5,461
+153,Christopher Gonzalez,2026-05-04,6,3,Private Spa,None,8,112
+154,Jacqueline Bray,2026-05-04,1,2,Couples Session,Coca Cola,9,323
+155,Alexander Peck,2026-05-04,4,3,Private Spa,Pizza,3,309
+156,Kristina Watson DDS,2026-05-04,4,1,Group Session,Pizza,5,478
+157,Rebekah Barnes,2026-05-04,1,1,Group Session,Coffee,8,265
+158,Bryan Matthews,2026-05-04,2,4,Private Spa,None,7,342
+159,Jessica Garcia,2026-05-04,1,3,Group Session,None,6,383
+160,Angela Stanton,2026-05-04,4,3,Couples Session,Pizza,6,135
+161,Dr. Andrea Davis,2026-05-04,2,4,Group Session,Coca Cola,2,311
+162,Scott Wang,2026-05-04,1,1,Birthday Party,None,8,337
+163,Jennifer Smith MD,2026-05-04,6,4,Group Session,Pizza,6,193
+164,Mary Anderson,2026-05-04,2,2,Birthday Party,Coffee,2,394
+165,Judith Hawkins,2026-05-04,4,3,Couples Session,Champagne,2,102
+166,Lindsay Ramos,2026-05-04,5,1,Group Session,None,9,452
+167,Raymond Bryant,2026-05-04,8,4,Group Session,Champagne,6,481
+168,Jennifer Wang,2026-05-04,4,1,Group Session,Coca Cola,5,417
+169,Richard Clements,2026-05-04,3,2,Couples Session,Coffee,7,346
+170,Matthew Stone,2026-05-04,8,3,Couples Session,None,5,234
+171,Jonathan Webb,2026-05-04,4,4,Birthday Party,Champagne,5,314
+172,Michele Cruz,2026-05-04,8,1,Private Spa,Champagne,6,409
+173,Kathleen Rogers,2026-05-04,7,3,Couples Session,Pizza,4,95
+174,Stephen Hernandez,2026-05-04,4,3,Group Session,Champagne,3,111
+175,Marilyn Nicholson,2026-05-04,2,1,Birthday Party,Coca Cola,2,325
+176,Christopher Richardson,2026-05-04,2,3,Group Session,Champagne,6,285
+177,Patrick Bell,2026-05-04,7,3,Group Session,Coca Cola,9,298
+178,Chloe Mercado,2026-05-04,6,4,Couples Session,Coca Cola,2,431
+179,Katherine Nguyen MD,2026-05-04,7,3,Private Spa,Pizza,7,135
+180,Debra Palmer,2026-05-04,7,4,Group Session,Coffee,4,331
+181,Edward Hensley,2026-05-04,8,3,Couples Session,Coca Cola,3,444
+182,Dr. Benjamin Frey,2026-05-04,1,2,Birthday Party,Champagne,6,307
+183,Robert Bradshaw,2026-05-04,2,2,Group Session,Champagne,7,117
+184,Antonio Rodriguez,2026-05-04,1,4,Birthday Party,Coca Cola,8,121
+185,Richard Hall,2026-05-04,7,4,Couples Session,Champagne,4,244
+186,Peter Hernandez,2026-05-04,6,2,Couples Session,None,5,391
+187,Henry Anderson,2026-05-04,2,3,Couples Session,Pizza,4,155
+188,Charles Acosta,2026-05-04,4,4,Couples Session,Champagne,10,113
+189,William Peters,2026-05-04,4,1,Couples Session,Pizza,7,144
+190,Dr. Richard James MD,2026-05-04,4,3,Private Spa,Coca Cola,10,220
+191,Jose Tucker,2026-05-04,8,3,Birthday Party,Coca Cola,10,399
+192,Christine Patel,2026-05-04,3,2,Private Spa,Coca Cola,6,404
+193,Victoria Chandler,2026-05-04,7,4,Birthday Party,Pizza,4,379
+194,Matthew Bennett,2026-05-04,3,3,Group Session,Champagne,6,360
+195,Alexandria Young,2026-05-04,5,4,Group Session,None,9,444
+196,Tiffany Maynard,2026-05-04,8,4,Birthday Party,Pizza,6,246
+197,Chloe Buck,2026-05-04,4,4,Group Session,None,7,275
+198,Kimberly Hernandez,2026-05-04,2,2,Group Session,Champagne,3,385
+199,Julie Williams,2026-05-04,8,4,Group Session,Champagne,9,351
+200,Jacqueline Robinson,2026-05-04,2,2,Private Spa,Pizza,3,230
